@@ -1,1 +1,1 @@
-programmer keymap
+programmer friendly keyboard layout
